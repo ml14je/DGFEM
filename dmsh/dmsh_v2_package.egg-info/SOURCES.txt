@@ -1,0 +1,7 @@
+setup.py
+dmsh_v2_package.egg-info/PKG-INFO
+dmsh_v2_package.egg-info/SOURCES.txt
+dmsh_v2_package.egg-info/dependency_links.txt
+dmsh_v2_package.egg-info/not-zip-safe
+dmsh_v2_package.egg-info/requires.txt
+dmsh_v2_package.egg-info/top_level.txt

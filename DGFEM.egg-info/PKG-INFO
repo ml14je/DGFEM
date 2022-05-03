@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: DGFEM
+Version: 0.1
+Summary: A Python translation of DG-FEM code covered in Warburton and Hesthaven, 2008.
+Home-page: http://github.com/ml14je/DGFEM
+Author: Joseph Elmes
+Author-email: ml14je@leeds.ac.uk
+License: None
+Platform: UNKNOWN
+
+UNKNOWN
+

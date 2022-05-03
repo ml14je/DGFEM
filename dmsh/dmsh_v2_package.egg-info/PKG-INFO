@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: dmsh-v2-package
+Version: 0.1
+Summary: Originally written by Nico Schlömer (nico.schloemer@gmail.com), the following code produces *and refines* high quality meshes using the delauney method
+Home-page: http://github.com/ml14je/dmshv2
+Author: Joseph Elmes
+Author-email: ml14je@leeds.ac.uk
+License: None
+Platform: UNKNOWN
+
+UNKNOWN
+

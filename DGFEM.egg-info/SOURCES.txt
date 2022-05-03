@@ -1,0 +1,7 @@
+setup.py
+DGFEM.egg-info/PKG-INFO
+DGFEM.egg-info/SOURCES.txt
+DGFEM.egg-info/dependency_links.txt
+DGFEM.egg-info/not-zip-safe
+DGFEM.egg-info/requires.txt
+DGFEM.egg-info/top_level.txt
